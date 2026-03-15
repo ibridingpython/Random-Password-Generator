@@ -1,5 +1,7 @@
 from random import choice
 
+# Made by Ibad 15/3/26 18:40
+
 prompt = ("Welcome to password generator!")
 prompt += ("\nEnter 0 to end the program.")
 prompt += ("\nEnter the length of the password: ")
